@@ -1,1 +1,0 @@
-# Protocolo-para-ataques-de-Ransomware
